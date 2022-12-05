@@ -1,0 +1,26 @@
+@import url(https://fonts.googleapis.com/css?family=Pacifico:400,800,700);
+
+body {
+    font-family: 'Pacifico';
+    display: grid;
+    place-items: center;
+    width: 100vw;
+    height: 100vh;
+}
+
+h2 {
+    text-align: center;
+    font-weight: 900;
+    font-size: 6.0em;
+    text-transform: uppercase;
+    background: url(https://24.media.tumblr.com/tumblr_m87dri70zh1qzla33o1_500.gif);
+    background-size: cover;
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+}
+
+h1 {
+    text-align: center;
+    color: #444;
+}
